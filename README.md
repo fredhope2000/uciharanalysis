@@ -1,6 +1,4 @@
-ReadMe for run_analysis.R
-Fred Hope
-24 Jan 2015
+ReadMe for run_analysis.R / Fred Hope / 24 Jan 2015
 
 This script requires that the working directory contain the folder "UCI HAR Dataset".
 

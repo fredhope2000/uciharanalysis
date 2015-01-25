@@ -1,6 +1,4 @@
-CodeBook for run_anaysis.R
-Fred Hope
-24 Jan 2015
+CodeBook for run_anaysis.R / Fred Hope / 24 Jan 2015
 
 This script reads in files from the UCI HAR Dataset and outputs a text file containing summaries of select portions of the data.
 
