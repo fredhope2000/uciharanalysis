@@ -8,98 +8,98 @@ See the README.md file for more detail of how exactly the code works.
 
 The output file is written from a data frame consisting of 32 columns, with names as follows:
 
-Subject
+Subject: 
 Subject ID, ranging from 1-30
 
-Activity
+Activity: 
 Activity Name, one of {WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING}
 
-tBodyAccMeanX
+tBodyAccMeanX: 
 time body accelerometer signal mean, X direction
 
-tBodyAccMeanY
+tBodyAccMeanY: 
 time body accelerometer signal mean, Y direction
 
-tBodyAccMeanZ
+tBodyAccMeanZ: 
 time body accelerometer signal mean, Z direction
 
-tBodyAccStdX
+tBodyAccStdX: 
 time body accelerometer signal standard deviation, X direction
 
-tBodyAccStdY
+tBodyAccStdY: 
 time body accelerometer signal standard deviation, Y direction
 
-tBodyAccStdZ
+tBodyAccStdZ: 
 time body accelerometer signal standard deviation, Z direction
 
-tGravityAccMeanX
+tGravityAccMeanX: 
 time gravity accelerometer signal mean, X direction
 
-tGravityAccMeanY
+tGravityAccMeanY: 
 time gravity accelerometer signal mean, Y direction
 
-tGravityAccMeanZ
+tGravityAccMeanZ: 
 time gravity accelerometer signal mean, Z direction
 
-tGravityAccStdX
+tGravityAccStdX: 
 time gravity accelerometer signal standard deviation, X  direction
 
-tGravityAccStdY
+tGravityAccStdY: 
 time gravity accelerometer signal standard deviation, Y direction
 
-tGravityAccStdZ
+tGravityAccStdZ: 
 time gravity accelerometer signal standard deviation, Z direction
 
-tBodyAccJerkMeanX
+tBodyAccJerkMeanX: 
 time body accelerometer jerk signal mean, X direction
 
-tBodyAccJerkMeanY
+tBodyAccJerkMeanY: 
 time body accelerometer jerk signal mean, Y direction
 
-tBodyAccJerkMeanZ
+tBodyAccJerkMeanZ: 
 time body accelerometer jerk signal mean, Z direction
 
-tBodyAccJerkStdX
+tBodyAccJerkStdX: 
 time body accelerometer jerk signal standard deviation, X direction
 
-tBodyAccJerkStdY
+tBodyAccJerkStdY: 
 time body accelerometer jerk signal standard deviation, Y direction
 
-tBodyAccJerkStdZ
+tBodyAccJerkStdZ: 
 time body accelerometer jerk signal standard deviation, Z direction
 
-tBodyGyroMeanX
+tBodyGyroMeanX: 
 time body gyroscope signal mean, X direction
 
-tBodyGyroMeanY
+tBodyGyroMeanY: 
 time body gyroscope signal mean, Y direction
 
-tBodyGyroMeanZ
+tBodyGyroMeanZ: 
 time body gyroscope signal mean, Z direction
 
-tBodyGyroStdX
+tBodyGyroStdX: 
 time body gyroscope signal standard deviation, X direction
 
-tBodyGyroStdY
+tBodyGyroStdY: 
 time body gyroscope signal standard deviation, Y direction
 
-tBodyGyroStdZ
+tBodyGyroStdZ: 
 time body gyroscope signal standard deviation, Z direction
 
-tBodyGyroJerkMeanX
+tBodyGyroJerkMeanX: 
 time body gyroscope jerk signal mean, X direction
 
-tBodyGyroJerkMeanY
+tBodyGyroJerkMeanY: 
 time body gyroscope jerk signal mean, Y direction
 
-tBodyGyroJerkMeanZ
+tBodyGyroJerkMeanZ: 
 time body gyroscope jerk signal mean, Z direction
 
-tBodyGyroJerkStdX
+tBodyGyroJerkStdX: 
 time body gyroscope jerk signal standard deviation, X direction
 
-tBodyGyroJerkStdY
+tBodyGyroJerkStdY: 
 time body gyroscope jerk signal standard deviation, Y direction
 
-tBodyGyroJerkStdZ
+tBodyGyroJerkStdZ: 
 time body gyroscope jerk signal standard deviation, Z direction
